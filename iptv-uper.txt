@@ -1,3 +1,4 @@
 体育:https://github.com/cattviptv2605
 爬虫收集源集合:https://github.com/alantang1977/X?tab=readme-ov-file
 国外源:https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive
+juli源:http://cdn.veryfast.filegear-sg.me/mytv.m3u
